@@ -45,7 +45,7 @@ Cada carpeta contiene un análisis completo, con:
 **Natalia Noemí Liscio**  
 Trainee en Data Analytics | Técnica en Programación | Estudiante de Ciencia de Datos  
 Apasionada por transformar datos en decisiones.  
-🟣 [LinkedIn] – [GitHub] – [Portafolio Web] *(si querés agregarlo)*
+🟣 [[LinkedIn]](https://www.linkedin.com/in/natalialiscio/)
 
 ---
 
